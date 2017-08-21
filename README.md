@@ -206,6 +206,7 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:wait:](assets/images/wait.gif)
 ![:sleep:](assets/images/sleep.gif)
 ![:bawl:](assets/images/bawl.gif)
+![:siltbreaker2:](assets/images/siltbreaker2.gif)
 ![:team_eg:](assets/images/team_eg.gif)
 ![:team_eg_silver:](assets/images/team_eg_silver.gif)
 ![:team_eg_gold:](assets/images/team_eg_gold.gif)
