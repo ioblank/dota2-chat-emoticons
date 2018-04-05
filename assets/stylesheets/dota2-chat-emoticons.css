@@ -8150,6 +8150,84 @@
 }
 
 
+.d2ce.pudgesteal {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/pudge_arcana_01.png");
+
+    -webkit-animation: play-pudgesteal 1.3s steps(13) infinite;
+    -moz-animation: play-pudgesteal 1.3s steps(13) infinite;
+    -ms-animation: play-pudgesteal 1.3s steps(13) infinite;
+    -o-animation: play-pudgesteal 1.3s steps(13) infinite;
+    animation: play-pudgesteal 1.3s steps(13) infinite;
+}
+
+@-webkit-keyframes play-pudgesteal {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-moz-keyframes play-pudgesteal {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-ms-keyframes play-pudgesteal {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@-o-keyframes play-pudgesteal {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+@keyframes play-pudgesteal {
+    from { background-position: 0px; }
+    to { background-position: -416px; }
+}
+
+
+.d2ce.pudgestop {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/pudge_arcana_02.png");
+
+    -webkit-animation: play-pudgestop 0.8s steps(8) infinite;
+    -moz-animation: play-pudgestop 0.8s steps(8) infinite;
+    -ms-animation: play-pudgestop 0.8s steps(8) infinite;
+    -o-animation: play-pudgestop 0.8s steps(8) infinite;
+    animation: play-pudgestop 0.8s steps(8) infinite;
+}
+
+@-webkit-keyframes play-pudgestop {
+    from { background-position: 0px; }
+    to { background-position: -256px; }
+}
+
+@-moz-keyframes play-pudgestop {
+    from { background-position: 0px; }
+    to { background-position: -256px; }
+}
+
+@-ms-keyframes play-pudgestop {
+    from { background-position: 0px; }
+    to { background-position: -256px; }
+}
+
+@-o-keyframes play-pudgestop {
+    from { background-position: 0px; }
+    to { background-position: -256px; }
+}
+
+@keyframes play-pudgestop {
+    from { background-position: 0px; }
+    to { background-position: -256px; }
+}
+
+
 .d2ce.team_eg {
     width: 32px;
     height: 32px;
