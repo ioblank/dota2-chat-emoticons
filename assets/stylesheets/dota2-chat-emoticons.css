@@ -8228,6 +8228,45 @@
 }
 
 
+.d2ce.aegis_2018 {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/aegis2018.png");
+
+    -webkit-animation: play-aegis_2018 2.3s steps(23) infinite;
+    -moz-animation: play-aegis_2018 2.3s steps(23) infinite;
+    -ms-animation: play-aegis_2018 2.3s steps(23) infinite;
+    -o-animation: play-aegis_2018 2.3s steps(23) infinite;
+    animation: play-aegis_2018 2.3s steps(23) infinite;
+}
+
+@-webkit-keyframes play-aegis_2018 {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-moz-keyframes play-aegis_2018 {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-ms-keyframes play-aegis_2018 {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@-o-keyframes play-aegis_2018 {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+@keyframes play-aegis_2018 {
+    from { background-position: 0px; }
+    to { background-position: -736px; }
+}
+
+
 .d2ce.team_eg {
     width: 32px;
     height: 32px;
