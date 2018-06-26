@@ -8267,6 +8267,123 @@
 }
 
 
+.d2ce.under_win {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/underhollow_emote_1.png");
+
+    -webkit-animation: play-under_win 3.0s steps(30) infinite;
+    -moz-animation: play-under_win 3.0s steps(30) infinite;
+    -ms-animation: play-under_win 3.0s steps(30) infinite;
+    -o-animation: play-under_win 3.0s steps(30) infinite;
+    animation: play-under_win 3.0s steps(30) infinite;
+}
+
+@-webkit-keyframes play-under_win {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-moz-keyframes play-under_win {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-ms-keyframes play-under_win {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-o-keyframes play-under_win {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@keyframes play-under_win {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+
+.d2ce.under_champ {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/underhollow_emote_5.png");
+
+    -webkit-animation: play-under_champ 3.0s steps(30) infinite;
+    -moz-animation: play-under_champ 3.0s steps(30) infinite;
+    -ms-animation: play-under_champ 3.0s steps(30) infinite;
+    -o-animation: play-under_champ 3.0s steps(30) infinite;
+    animation: play-under_champ 3.0s steps(30) infinite;
+}
+
+@-webkit-keyframes play-under_champ {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-moz-keyframes play-under_champ {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-ms-keyframes play-under_champ {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-o-keyframes play-under_champ {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@keyframes play-under_champ {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+
+.d2ce.under_king {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/underhollow_emote_10.png");
+
+    -webkit-animation: play-under_king 3.0s steps(30) infinite;
+    -moz-animation: play-under_king 3.0s steps(30) infinite;
+    -ms-animation: play-under_king 3.0s steps(30) infinite;
+    -o-animation: play-under_king 3.0s steps(30) infinite;
+    animation: play-under_king 3.0s steps(30) infinite;
+}
+
+@-webkit-keyframes play-under_king {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-moz-keyframes play-under_king {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-ms-keyframes play-under_king {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-o-keyframes play-under_king {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@keyframes play-under_king {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+
 .d2ce.team_eg {
     width: 32px;
     height: 32px;
