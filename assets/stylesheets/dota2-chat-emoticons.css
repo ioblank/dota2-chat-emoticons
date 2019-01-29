@@ -8384,6 +8384,84 @@
 }
 
 
+.d2ce.frostivus_2018 {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/frostivus_2018.png");
+
+    -webkit-animation: play-frostivus_2018 3.0s steps(30) infinite;
+    -moz-animation: play-frostivus_2018 3.0s steps(30) infinite;
+    -ms-animation: play-frostivus_2018 3.0s steps(30) infinite;
+    -o-animation: play-frostivus_2018 3.0s steps(30) infinite;
+    animation: play-frostivus_2018 3.0s steps(30) infinite;
+}
+
+@-webkit-keyframes play-frostivus_2018 {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-moz-keyframes play-frostivus_2018 {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-ms-keyframes play-frostivus_2018 {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@-o-keyframes play-frostivus_2018 {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+@keyframes play-frostivus_2018 {
+    from { background-position: 0px; }
+    to { background-position: -960px; }
+}
+
+
+.d2ce.magus_cypher {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/magus_cypher.png");
+
+    -webkit-animation: play-magus_cypher 3.1s steps(31) infinite;
+    -moz-animation: play-magus_cypher 3.1s steps(31) infinite;
+    -ms-animation: play-magus_cypher 3.1s steps(31) infinite;
+    -o-animation: play-magus_cypher 3.1s steps(31) infinite;
+    animation: play-magus_cypher 3.1s steps(31) infinite;
+}
+
+@-webkit-keyframes play-magus_cypher {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@-moz-keyframes play-magus_cypher {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@-ms-keyframes play-magus_cypher {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@-o-keyframes play-magus_cypher {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+@keyframes play-magus_cypher {
+    from { background-position: 0px; }
+    to { background-position: -992px; }
+}
+
+
 .d2ce.team_eg {
     width: 32px;
     height: 32px;
@@ -11306,5 +11384,395 @@
 @keyframes play-team_empire_gold {
     from { background-position: 0px; }
     to { background-position: -800px; }
+}
+
+
+.d2ce.uncalibrated {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_0.png");
+
+    -webkit-animation: play-uncalibrated 0.1s steps(1) infinite;
+    -moz-animation: play-uncalibrated 0.1s steps(1) infinite;
+    -ms-animation: play-uncalibrated 0.1s steps(1) infinite;
+    -o-animation: play-uncalibrated 0.1s steps(1) infinite;
+    animation: play-uncalibrated 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-uncalibrated {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-uncalibrated {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-uncalibrated {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-uncalibrated {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-uncalibrated {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.herald {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_1.png");
+
+    -webkit-animation: play-herald 0.1s steps(1) infinite;
+    -moz-animation: play-herald 0.1s steps(1) infinite;
+    -ms-animation: play-herald 0.1s steps(1) infinite;
+    -o-animation: play-herald 0.1s steps(1) infinite;
+    animation: play-herald 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-herald {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-herald {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-herald {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-herald {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-herald {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.guardian {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_2.png");
+
+    -webkit-animation: play-guardian 0.1s steps(1) infinite;
+    -moz-animation: play-guardian 0.1s steps(1) infinite;
+    -ms-animation: play-guardian 0.1s steps(1) infinite;
+    -o-animation: play-guardian 0.1s steps(1) infinite;
+    animation: play-guardian 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-guardian {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-guardian {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-guardian {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-guardian {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-guardian {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.crusader {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_3.png");
+
+    -webkit-animation: play-crusader 0.1s steps(1) infinite;
+    -moz-animation: play-crusader 0.1s steps(1) infinite;
+    -ms-animation: play-crusader 0.1s steps(1) infinite;
+    -o-animation: play-crusader 0.1s steps(1) infinite;
+    animation: play-crusader 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-crusader {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-crusader {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-crusader {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-crusader {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-crusader {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.archon {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_4.png");
+
+    -webkit-animation: play-archon 0.1s steps(1) infinite;
+    -moz-animation: play-archon 0.1s steps(1) infinite;
+    -ms-animation: play-archon 0.1s steps(1) infinite;
+    -o-animation: play-archon 0.1s steps(1) infinite;
+    animation: play-archon 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-archon {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-archon {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-archon {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-archon {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-archon {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.legend {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_5.png");
+
+    -webkit-animation: play-legend 0.1s steps(1) infinite;
+    -moz-animation: play-legend 0.1s steps(1) infinite;
+    -ms-animation: play-legend 0.1s steps(1) infinite;
+    -o-animation: play-legend 0.1s steps(1) infinite;
+    animation: play-legend 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-legend {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-legend {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-legend {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-legend {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-legend {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.ancient {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_6.png");
+
+    -webkit-animation: play-ancient 0.1s steps(1) infinite;
+    -moz-animation: play-ancient 0.1s steps(1) infinite;
+    -ms-animation: play-ancient 0.1s steps(1) infinite;
+    -o-animation: play-ancient 0.1s steps(1) infinite;
+    animation: play-ancient 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-ancient {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-ancient {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-ancient {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-ancient {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-ancient {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.divine {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_7.png");
+
+    -webkit-animation: play-divine 0.1s steps(1) infinite;
+    -moz-animation: play-divine 0.1s steps(1) infinite;
+    -ms-animation: play-divine 0.1s steps(1) infinite;
+    -o-animation: play-divine 0.1s steps(1) infinite;
+    animation: play-divine 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-divine {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-divine {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-divine {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-divine {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-divine {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.immortal {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_8.png");
+
+    -webkit-animation: play-immortal 0.1s steps(1) infinite;
+    -moz-animation: play-immortal 0.1s steps(1) infinite;
+    -ms-animation: play-immortal 0.1s steps(1) infinite;
+    -o-animation: play-immortal 0.1s steps(1) infinite;
+    animation: play-immortal 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-immortal {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-immortal {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-immortal {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-immortal {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-immortal {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.top100 {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_9.png");
+
+    -webkit-animation: play-top100 0.1s steps(1) infinite;
+    -moz-animation: play-top100 0.1s steps(1) infinite;
+    -ms-animation: play-top100 0.1s steps(1) infinite;
+    -o-animation: play-top100 0.1s steps(1) infinite;
+    animation: play-top100 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-top100 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-top100 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-top100 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-top100 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-top100 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
 }
 
