@@ -11738,11 +11738,50 @@
 }
 
 
-.d2ce.top100 {
+.d2ce.top1000 {
     width: 32px;
     height: 32px;
     display: inline-block;
     background-image: url("../images/emoticons/ranked_icons_emoticon_9.png");
+
+    -webkit-animation: play-top1000 0.1s steps(1) infinite;
+    -moz-animation: play-top1000 0.1s steps(1) infinite;
+    -ms-animation: play-top1000 0.1s steps(1) infinite;
+    -o-animation: play-top1000 0.1s steps(1) infinite;
+    animation: play-top1000 0.1s steps(1) infinite;
+}
+
+@-webkit-keyframes play-top1000 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-moz-keyframes play-top1000 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-ms-keyframes play-top1000 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@-o-keyframes play-top1000 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+@keyframes play-top1000 {
+    from { background-position: 0px; }
+    to { background-position: -32px; }
+}
+
+
+.d2ce.top100 {
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+    background-image: url("../images/emoticons/ranked_icons_emoticon_10.png");
 
     -webkit-animation: play-top100 0.1s steps(1) infinite;
     -moz-animation: play-top100 0.1s steps(1) infinite;

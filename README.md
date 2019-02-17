@@ -308,6 +308,7 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:ancient:](assets/images/ancient.gif)
 ![:divine:](assets/images/divine.gif)
 ![:immortal:](assets/images/immortal.gif)
+![:top1000:](assets/images/top1000.gif)
 ![:top100:](assets/images/top100.gif)
 
 (24x24px and 16x16px variants also included)
