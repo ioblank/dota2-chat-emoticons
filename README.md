@@ -224,6 +224,7 @@ The recently added Dota 2 Chat Emoticons from the compendium stretch goal as GIF
 ![:under_king:](assets/images/under_king.gif)
 ![:frostivus_2018:](assets/images/frostivus_2018.gif)
 ![:magus_cypher:](assets/images/magus_cypher.gif)
+![:aegis_2019:](assets/images/aegis_2019.gif)
 ![:team_eg:](assets/images/team_eg.gif)
 ![:team_eg_silver:](assets/images/team_eg_silver.gif)
 ![:team_eg_gold:](assets/images/team_eg_gold.gif)
